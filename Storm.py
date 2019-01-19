@@ -82,7 +82,7 @@ citynameE.place(relx=0.87, rely=0.44, anchor='se')
 
 def getWeather():
 
-    url = "http://api.openweathermap.org/data/2.5/weather?q=" + citynameE.get() + "&appid=c16b30e1ad84ce3366830e9689d38e82"
+    url = "http://api.openweathermap.org/data/2.5/weather?q=" + citynameE.get() + "&appid=  "
 
 
 
